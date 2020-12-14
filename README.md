@@ -21,7 +21,8 @@ These are the Features in our dataset:
     11. Price: the Price of the flight (in Rupes) (Dependent Variable) AKA the Target
 ## Data Collection and Cleaning
 - [Source of the dataset](https://www.machinehack.com/)
-- There are 10683 rows and 11 Columns (Features) in the Train dataset and  2671 rows and 10 Features (Minus the Price feature)
+- There are 10683 rows and 11 Columns (Features) in the Train dataset and  2671 rows and 10 Features (Minus the Price feature) in the test dataset
+- There were few missing values and were dropped using the dropna function.
 ## Feature Extraction and Engineering
 1. A lot of Data Preprocessing needed to be done for e.g, like converting object data type to datatime data type by using pandas to_datetime
 2. Extracting the 'Journey_Day' and 'Journey_Month','Weekday' Features  from Date of Journey Feature
