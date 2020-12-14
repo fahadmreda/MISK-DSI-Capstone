@@ -4,13 +4,13 @@
 ## Problem Overview: 
 **One of the main thing to consider while traveling is calculating the cost of the trip, where the price of the flights ticket plays an important role, so this project is going to help the traveler to Predict the flight ticket,as buying tickets is a very hectic process, the output (Y) will be the Price of the Flight**
 ## Features Available in the Dataset:
-[dataset](https://flic.kr/p/2kh1r8f)
+[dataset](https://themis427.files.wordpress.com/2020/12/flight-fare-dataset.png)
 These are the Features in our dataset:
-    1. Airline: The name of the airline.
+    1. Airline: The name of the airline
     2. Date_of_Journey: The date of the Trip
-    3. Source: The source from which the service begins.
-    4. Destination: The destination where the service ends. 
-    5. Route: The route taken by the flight to reach the destination.   
+    3. Source: The source from which the service begins
+    4. Destination: The destination where the service ends 
+    5. Route: The route taken by the flight to reach the destination   
     6. Dep_Time: The time when the journey starts from the source.  
     7. Arrival_Time: Time of arrival at the destination.  
     8. Duration: Total duration of the flight. 
